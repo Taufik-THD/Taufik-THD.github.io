@@ -1,0 +1,118 @@
+*{margin: 0; padding: 0;}
+menu{
+	width: 1366;
+	height: 90px;
+	background-color: black;
+	border:0px solid #ddd; 
+	background:rgba(128,128,64, 0.5);
+	}
+
+.recomended {
+ 	width: 100%;
+ 	overflow: hidden;
+}
+
+.recomended h1{
+	color: brown;
+	font-size: 45;
+	text-align: left;
+	padding-left: 2%;
+	padding-bottom: 0;
+	padding-top: 5;
+}
+.recomended h2{
+	color: black;
+	font-style: italic;
+	font-size: 20;
+	text-align: left;
+	padding-left: 11%;
+	padding-top: 0;
+}
+.recomended h3{
+	color: black;
+	font-style: italic;
+	font-size: 40;
+	text-align: left;
+	padding-left: 10%;
+	padding-top: 0;
+}
+.recomended h4{
+	color: black;
+	font-style: italic;
+	font-size: 40;
+	text-align: left;
+	padding-left: 10%;
+	padding-top: 0;
+}
+.recomended h5{
+	position: absolute;
+	color: black;
+	font-style: italic;
+	font-size: 15;
+	text-align: left;
+	top: 25;
+	right: 460;
+}
+.recomended h6{
+	position: absolute;
+	color: black;
+	font-style: italic;
+	font-size: 15;
+	text-align: left;
+	top: 25;
+	right: 245;
+}
+.recomended p{
+	color: black;
+	font-style: italic;
+	font-size: 20;
+	text-align: left;
+	padding-left: 10%;
+	padding-top: 120;
+}
+.recomended ul{
+	color: brown;
+	font-style: italic;
+	font-size: 20;
+	text-align: left;
+	padding-left: 10%;
+	padding-top: 0;
+}
+.recomended ol{
+	color: brown;
+	font-style: italic;
+	font-size: 20;
+	text-align: left;
+	padding-left: 10%;
+	padding-top: 0;
+}
+.recomended a{
+	color: brown;
+	font-style: italic;
+}
+.recomended tr{
+	position: absolute;
+    top: 40px;
+    right: 300px;
+    width: 200px;
+    height: 100px;
+}
+
+.tombol{
+  background:#4E342E;
+  color: white;
+  border-top:0;
+  border-left:0;
+  border-right:0;
+  border-bottom: 2px solid black;
+  border-right:  2px solid black;
+  text-decoration:none;
+  font-family: verdana;
+  font-size:11pt;
+  position: absolute;
+  text-align: center;
+  top: 41px;
+  right: 30px;
+  width: 80px;
+  height: 20px;
+}
